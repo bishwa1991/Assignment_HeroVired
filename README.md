@@ -94,4 +94,16 @@ main
 | Version 1 | Created the Flask application with the `/vote/<name>` endpoint to record votes. |
 | Version 2 | Added the `/results` endpoint, improved the application, merged changes from `dev` into `main`, and updated the documentation. |
 
+## Screenshots
+
+### 1. Application Running
+
+![Application Running](screenshots/application.png)
+
+---
+
+### 2. GitHub Repository Showing `main` and `dev` Branches
+
+![GitHub Branches](screenshots/github-branches.png)
+
 ---
